@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Zipper", "Zipper\Zipper.fsproj", "{3BADDCAD-2132-4E23-A23D-AB7283663141}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Zipper.Tests", "Zipper.Tests\Zipper.Tests.fsproj", "{2E747718-C8E9-46ED-A619-D44A0A6956F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BADDCAD-2132-4E23-A23D-AB7283663141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BADDCAD-2132-4E23-A23D-AB7283663141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BADDCAD-2132-4E23-A23D-AB7283663141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BADDCAD-2132-4E23-A23D-AB7283663141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E747718-C8E9-46ED-A619-D44A0A6956F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E747718-C8E9-46ED-A619-D44A0A6956F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E747718-C8E9-46ED-A619-D44A0A6956F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E747718-C8E9-46ED-A619-D44A0A6956F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
